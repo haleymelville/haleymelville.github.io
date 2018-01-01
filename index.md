@@ -8,4 +8,12 @@ This is a blog about ...coming soon...
 2. two
 3. three
 
-YEAH!
+### Categories
+
+1. yep
+2. yep
+3. yep
+
+#### Contact Info
+
+- yep
