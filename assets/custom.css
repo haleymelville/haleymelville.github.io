@@ -1,5 +1,6 @@
 // start: fixes to existing theme styles
 .inner{
+  width: inherit;
   max-width: 720px;
 }
 // end: fixes to existing theme styles
@@ -10,4 +11,8 @@
 
 .navbutton{
   font-weight: bolder;
+}
+
+.navbutton::after {
+  content: "|";
 }
