@@ -4,6 +4,7 @@ title:  "Book Review: Who Ordered This Truckload of Dung?"
 date:   2018-01-09
 categories: book health
 ---
+![Who Ordered This Truckload of Dung? by Ajahn Brahm](assets/img/whoorderedthistruckloadofdung.jpg)
 # Book Review: Who Ordered This Truckload of Dung?
 ##  by Ajahn Brahm
 I’ve read this book a few times. I wasn’t ready for all the lessons the first time, and I wasn’t ready the second time. But somehow, I always get what I’m looking for when I crack it open. Collected over a thirty year time period, Ajahn Brahm shares stories that sit in your mind until your soul is ready to digest them. If you’re feeling spread too thin, this book is definitely worth a read! 
