@@ -10,9 +10,15 @@
 }
 
 .navbutton{
-  font-weight: bolder;
+  font-weight: lighter;
+  transition: all .3s ease-out;
+}
+.navbutton:hover{
+  text-shadow: 0 0 3px #999;
 }
 
 .navbutton::after {
+  color:black;
+  font-weight:900;
   content: " |";
 }
