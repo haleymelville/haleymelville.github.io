@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Review: Who Ordered This Truckload of Dung?"
 date:   2018-01-09
-categories: book
+categories: book health
 ---
 # Book Review: Who Ordered This Truckload of Dung?
 ##  by Ajahn Brahm
