@@ -6,7 +6,7 @@ categories: book
 ---
 # Book Review: Who Ordered This Truckload of Dung?
 ##  by Ajahn Brahm
-I’ve read this book a few times. I wasn’t ready for all the lessons the first time, and I wasn’t ready the second time. But somehow, I always get what I’m looking for when I crack it open. If you’re feeling spread too thin, this book is definitely worth a read!
+I’ve read this book a few times. I wasn’t ready for all the lessons the first time, and I wasn’t ready the second time. But somehow, I always get what I’m looking for when I crack it open. Collected over a thirty year time period, Ajahn Brahm shares stories that sit in your mind until your soul is ready to digest them. If you’re feeling spread too thin, this book is definitely worth a read! 
 ### How it reads: 
 Ajahn Brahm organizes these stories by emotions, which, no surprise, were the chapter titles. In fact, the table of contents was where I had my first “a-ha!” moment. Titles like Perfection and guilt, Fear and pain, and Freedom and humility. It dawned on me that these emotions we’re all feeling, are all connected. We can’t fully understand fear without fully understanding pain and we don’t know what freedom feels like until we’ve experience humility.
 
@@ -21,4 +21,3 @@ The metaphors! The title itself has an amazing story attached to it in the Creat
 Something for everyone! I’d gift this to just about anyone; pre teens, teenagers, twenty-somethings, parents, and grandparents! In fact, there is an amazing poem included by a 9 year old! The real gift will be the conversations that are bound to happen after they’ve read it.
 
 I picked this book up because at the time, I was feeling like I was drowning at work and at home...we’ve all been there. I was tired and tired of feeling sorry for myself. I needed this reminder that life is not easy, but I’m not the only one working through this mess. We’re all on a journey, some farther ahead and some parked in a lot somewhere. But, we’re all failing forward. 
-Collected over a thirty year time period, Ajahn Brahm shares stories that sit in your mind until your soul is ready to digest them.
