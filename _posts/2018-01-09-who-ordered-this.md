@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Who Ordered This Truckload of Dung? Book Review"
+title:  "Book Review: Who Ordered This Truckload of Dung?"
 date:   2018-01-09
 categories: book
 ---
-# Who Ordered This Truckload of Dung?
-## Book Review
+# Book Review: Who Ordered This Truckload of Dung?
+##  by Ajahn Brahm
 I’ve read this book a few times. I wasn’t ready for all the lessons the first time, and I wasn’t ready the second time. But somehow, I always get what I’m looking for when I crack it open. If you’re feeling spread too thin, this book is definitely worth a read!
 ### How it reads: 
 Ajahn Brahm organizes these stories by emotions, which, no surprise, were the chapter titles. In fact, the table of contents was where I had my first “a-ha!” moment. Titles like Perfection and guilt, Fear and pain, and Freedom and humility. It dawned on me that these emotions we’re all feeling, are all connected. We can’t fully understand fear without fully understanding pain and we don’t know what freedom feels like until we’ve experience humility.
