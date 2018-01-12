@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Book Review"
+title:  "Who Ordered This Truckload of Dung? Book Review"
 date:   2018-01-09
 categories: book
 ---
