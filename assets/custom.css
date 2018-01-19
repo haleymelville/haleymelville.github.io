@@ -1,6 +1,22 @@
 /* start: fixes to existing theme styles */
+.inner{
+  width:unset;
+  max-width:740px;
+}
+
 header {
-  text-align: center;
+  display: grid;
+  grid-template-columns: 200px auto;
+  grid-template-rows: auto;
+  grid-template-areas: none;
+  justify-content: stretch;
+  grid-auto-flow: row;   
+  justify-content: space-evenly;
+  grid-gap: 5px;
+}
+header h1{
+  border: 1px solid;
+  font-size: 24px;
 }
 /* end: fixes to existing theme styles */
 
@@ -8,7 +24,7 @@ header {
   background: red;
 }
 .navigation{
-  text-align: center;
+  border: 1px solid;
 }
 
 .navbutton{
