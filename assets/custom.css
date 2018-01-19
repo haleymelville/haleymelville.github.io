@@ -1,5 +1,7 @@
 // start: fixes to existing theme styles
-
+header {
+  text-align:center;
+}
 // end: fixes to existing theme styles
 
 .test{
