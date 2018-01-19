@@ -1,4 +1,9 @@
 /* start: fixes to existing theme styles */
+body{
+  font-family:verdana;
+  
+  font-size:16px
+}
 .inner{
   width:unset;
   max-width:740px;
@@ -11,11 +16,11 @@ header {
   grid-template-areas: none;
   justify-content: stretch;
   grid-auto-flow: row;   
-  justify-content: space-evenly;
   grid-gap: 5px;
+
+  padding: 15px 0;
 }
 header h1{
-  border: 1px solid;
   font-size: 24px;
 }
 /* end: fixes to existing theme styles */
@@ -24,11 +29,11 @@ header h1{
   background: red;
 }
 .navigation{
-  border: 1px solid;
+  border:unset;
 }
 
 .navbutton{
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size:14px;
   transition: all .3s ease-out;
 }
 .navbutton:hover{
