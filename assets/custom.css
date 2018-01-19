@@ -5,7 +5,9 @@
 .test{
   background: red;
 }
-
+.navigation{
+  margin: 0 auto;
+}
 .navbutton{
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   transition: all .3s ease-out;
