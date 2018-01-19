@@ -7,7 +7,7 @@
 }
 
 .navbutton{
-  font-weight: lighter;
+  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   transition: all .3s ease-out;
 }
 .navbutton:hover{
