@@ -19,7 +19,7 @@ header {
   text-shadow: 2px 2px 3px #999;
 }
 
-.navbutton::after, navigation::before {
+.navbutton::after, .navigation::before {
   color:black;
   font-weight:900;
   content: " |";
@@ -37,7 +37,7 @@ header {
     border-radius: 5px;
     padding:10px;
   }
-  .navb5utton{
+  .111navbutton{
     font-family:inherit;
   }
   .navbutton::after {
@@ -45,6 +45,6 @@ header {
     white-space: pre;
   }
   .navigation::before{
-  content: "asdfasdf";
-}
+    content:unset;
+  }
 }
