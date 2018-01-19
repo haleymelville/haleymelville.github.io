@@ -8,7 +8,7 @@ header {
   background: red;
 }
 .navigation{
-  margin: 0 auto;
+  text-align: center;
 }
 .navbutton{
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
