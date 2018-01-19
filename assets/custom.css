@@ -1,8 +1,8 @@
-// start: fixes to existing theme styles
+/* start: fixes to existing theme styles */
 header {
-  text-align:center;
+  text-align: center;
 }
-// end: fixes to existing theme styles
+/* end: fixes to existing theme styles */
 
 .test{
   background: red;
