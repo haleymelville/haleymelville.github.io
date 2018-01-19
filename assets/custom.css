@@ -13,7 +13,7 @@ header {
   display: grid;
   grid-template-columns: 200px auto;
   grid-template-rows: auto;
-  grid-template-areas: none;
+  grid-template-areas: "title navigation";
   justify-content: stretch;
   grid-auto-flow: row;   
   grid-gap: 5px;
@@ -22,6 +22,7 @@ header {
 }
 header h1{
   font-size: 24px;
+  grid-area: title;
 }
 /* end: fixes to existing theme styles */
 
@@ -30,6 +31,7 @@ header h1{
 }
 .navigation{
   border:unset;
+  grid-area: navigation;
 }
 
 .navbutton{
@@ -45,34 +47,29 @@ header h1{
   font-weight:900;
   content: "| ";
 }
+.pancake{
+  display:none;
+}
 
 .bookimg{
   display:block;
  margin: 0 auto; 
  width: 150px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 740px) {
+  header{
+    grid-template-columns: 40px auto;
+    grid-template-areas: ". title"
+  }
   .navigation{
-    text-align: left;
-    border: 1px solid #3333;
-    border-radius: 5px;
-    padding:10px;
+    display: none;
   }
-  .111navbutton{
-    font-family:inherit;
-  }
-  .navbutton::after {
-    content: "\a";
-    white-space: pre;
-  }
-  .navigation::before{
-    content:unset;
-  }
+
   .pancake{
-;
-    background:#1114;
+    display: block;
     padding: 5px;
-    border-radius: 4px;
+    /* testing */
+    background:lightblue; 
   }
   .pancake span{
     background:#111;
