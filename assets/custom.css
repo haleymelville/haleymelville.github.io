@@ -67,17 +67,17 @@ header h1{
 
   .pancake{
     display: block;
-    padding: 5px;
-    /* testing */
-    background:lightblue; 
+    padding: 3px 10px;
+    /* testing 
+    background:lightblue; */
     cursor: pointer;
   }
   .pancake span{
     background:#111;
-    border-radius:10px;
+    border-radius:4px;
     display:block;
     height:4px;
-    margin:0 0 5px;
-    width:30px;
+    margin:0 0 4px;
+    width:25px;
   }
 }
