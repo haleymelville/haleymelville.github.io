@@ -2,11 +2,16 @@
 body{
   font-family:verdana;
   font-size:16px;
-  position:absolute;
+  position: absolute;
+  left:0px;
+  transition: all .3s ease-out;
 }
 .inner{
   width:unset;
   max-width:740px;
+}
+.small-nav-out{
+  left: 300px !important;
 }
 
 header {
