@@ -64,6 +64,7 @@ header h1{
   body{
     position: absolute;
     left:0px;
+    width: 100%;
   }
   header{
     grid-template-columns: 40px auto;
