@@ -73,7 +73,17 @@ header h1{
   .navigation{
     display: none;
   }
-
+  .navbutton{
+    color: white;
+    font-size:20px;
+    text-shadow: 2px 2px 3px #1111;
+  }
+  .navbutton:hover{
+    text-shadow: 2px 2px 3px #1111;
+  }
+  .navbutton::before, .navigation::after{
+    content:unset;
+  }
   .pancake{
     display: block;
     padding: 3px 10px;
@@ -95,8 +105,9 @@ header h1{
     left:-300px;
     width:300px;
     height:100%;
-    background:#1115;
+    background:#303030;
     transition:all .3s ease-out;
+    padding-top:15px;
   }
   .small-nav-out{
     left: 300px !important;
