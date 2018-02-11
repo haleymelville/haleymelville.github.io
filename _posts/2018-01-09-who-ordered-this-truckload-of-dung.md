@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Review: Who Ordered This Truckload of Dung?"
 date:   2018-01-09
-categories: book health
+categories: book health review
 ---
 <img class="bookimg" src="/assets/img/whoorderedthistruckloadofdung.jpg"/>
 # Book Review: Who Ordered This Truckload of Dung?
