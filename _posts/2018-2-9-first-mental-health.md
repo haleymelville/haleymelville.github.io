@@ -2,7 +2,7 @@
 layout: post
 title:  "Zen Parenting Radio Podcast"
 date:   2018-02-09
-categories: health podcast review
+categories: momlife podcast review
 ---
 
 # The Zen Parenting Radio Podcast
