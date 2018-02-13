@@ -36,18 +36,16 @@ header h1{
 }
 
 .navbutton{
-  font-size:14px;
+  letter-spacing: -1.5px;
+  font-size:20px;
+  color:black;
+  margin-right: 5px;
   transition: all .3s ease-out;
 }
 .navbutton:hover{
   text-shadow: 2px 2px 3px #999;
 }
 
-.navbutton::before, .navigation::after{
-  color:black;
-  font-weight:900;
-  content: "| ";
-}
 .pancake{
   display:none;
 }
